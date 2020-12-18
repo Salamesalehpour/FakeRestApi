@@ -1,26 +1,31 @@
 {
-    "Users":
-    [
-        {
-            "id": 1,
-            "Name": "Salam",
-            "CompanyId": 1
-        },
-        {
-            "id": 2,
-            "Name": "Barin",
-            "CompanyId": 2
-        }
-    ],
-    "Companies":
-    [
-        {
-            "id":1,
-            "Name": "Tosan"
-        },
-        {
-            "id":2,
-            "Name": "Fanavaran"
-        }
-    ]
+  "posts": [
+    {
+      "id": 1,
+      "title": "Post 1"
+    },
+    {
+      "id": 2,
+      "title": "Post 2"
+    },
+    {
+      "id": 3,
+      "title": "Post 3"
+    }
+  ],
+  "comments": [
+    {
+      "id": 1,
+      "body": "some comment",
+      "postId": 1
+    },
+    {
+      "id": 2,
+      "body": "some comment",
+      "postId": 1
+    }
+  ],
+  "profile": {
+    "name": "typicode"
+  }
 }

@@ -1,0 +1,26 @@
+{
+    "Users":
+    [
+        {
+            "id": 1,
+            "Name": "Salam",
+            "CompanyId": 1
+        },
+        {
+            "id": 2,
+            "Name": "Barin",
+            "CompanyId": 2
+        }
+    ],
+    "Companies":
+    [
+        {
+            "id":1,
+            "Name": "Tosan"
+        },
+        {
+            "id":2,
+            "Name": "Fanavaran"
+        }
+    ]
+}
